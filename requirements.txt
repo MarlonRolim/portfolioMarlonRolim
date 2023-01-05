@@ -1,3 +1,4 @@
+psycopg2-binary==2.9.5
 alembic==1.6.5
 blinker==1.4
 click==8.0.1
